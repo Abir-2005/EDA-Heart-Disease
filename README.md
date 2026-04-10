@@ -30,6 +30,10 @@ By analyzing these patterns, the project provides a strong foundation for furthe
 ## 📁 Dataset
 Kaggle.com
 
+## 📄 Report
+The detailed Exploratory Data Analysis (EDA) report is available in the PDF file: **Heart Disease Prediction.EDA.pdf**.  
+It includes complete analysis, visualizations, and key insights from the heart disease dataset.
+
 ## 🚀 Conclusion
 In conclusion, the Exploratory Data Analysis of the heart disease dataset provides valuable insights into the factors that influence cardiovascular health. The analysis highlights the importance of attributes such as age, blood pressure, cholesterol levels, and other clinical indicators in determining the risk of heart disease.
 
